@@ -1,0 +1,17 @@
+body {
+  background: #343434;
+}
+
+h3 {
+  color: green;
+}
+
+.foto-principal {
+  border: 2px solid #fff;
+  border-radius: 50%;
+  width: 200px;
+}
+
+#titulo-principal {
+  color: #fff;
+}
